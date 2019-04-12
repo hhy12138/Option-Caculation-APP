@@ -1,5 +1,3 @@
-# Assignment 3 Report
-
 **Group member**: Yuming Chen(3035561601), Hongyi Huang(3035561807), Shanyu Xiong(3035561534)
 
 ## Contributions
